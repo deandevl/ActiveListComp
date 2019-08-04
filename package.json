@@ -1,0 +1,20 @@
+{
+  "name": "activelistcomp",
+  "version": "1.0.0",
+  "description": "A Vue.js component (Vue.js >= 2.5) that provides an input box laid on top of a list display that grows with each new input entry. ",
+  "main": "ActiveListComp.vue",
+  "repository": "git+https://github.com/deandevl/ActiveListComp.git",
+  "keywords": [
+    "Vue.js",
+    "ActiveListComp"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/ActiveListComp/issues"
+  },
+  "homepage": "https://github.com/deandevl/ActiveListComp#readme",
+  "dependencies": {
+    "vue": "^2.5.9"
+  }
+}
